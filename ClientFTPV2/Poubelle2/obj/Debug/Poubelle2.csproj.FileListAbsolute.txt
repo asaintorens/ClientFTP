@@ -1,0 +1,5 @@
+C:\Users\alexa_000\Documents\Visual Studio 2013\Projects\ClientFTPV2\Poubelle2\bin\Debug\Poubelle2.exe.config
+C:\Users\alexa_000\Documents\Visual Studio 2013\Projects\ClientFTPV2\Poubelle2\bin\Debug\Poubelle2.exe
+C:\Users\alexa_000\Documents\Visual Studio 2013\Projects\ClientFTPV2\Poubelle2\bin\Debug\Poubelle2.pdb
+C:\Users\alexa_000\Documents\Visual Studio 2013\Projects\ClientFTPV2\Poubelle2\obj\Debug\Poubelle2.exe
+C:\Users\alexa_000\Documents\Visual Studio 2013\Projects\ClientFTPV2\Poubelle2\obj\Debug\Poubelle2.pdb

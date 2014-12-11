@@ -1,0 +1,7 @@
+C:\Users\alexa_000\Documents\Visual Studio 2013\Projects\ClientFTPV2\UnitTestClientFTP\bin\Debug\UnitTestClientFTP.dll
+C:\Users\alexa_000\Documents\Visual Studio 2013\Projects\ClientFTPV2\UnitTestClientFTP\bin\Debug\UnitTestClientFTP.pdb
+C:\Users\alexa_000\Documents\Visual Studio 2013\Projects\ClientFTPV2\UnitTestClientFTP\bin\Debug\ClientFTP.exe
+C:\Users\alexa_000\Documents\Visual Studio 2013\Projects\ClientFTPV2\UnitTestClientFTP\bin\Debug\ClientFTP.pdb
+C:\Users\alexa_000\Documents\Visual Studio 2013\Projects\ClientFTPV2\UnitTestClientFTP\obj\Debug\UnitTestClientFTP.csprojResolveAssemblyReference.cache
+C:\Users\alexa_000\Documents\Visual Studio 2013\Projects\ClientFTPV2\UnitTestClientFTP\obj\Debug\UnitTestClientFTP.dll
+C:\Users\alexa_000\Documents\Visual Studio 2013\Projects\ClientFTPV2\UnitTestClientFTP\obj\Debug\UnitTestClientFTP.pdb
